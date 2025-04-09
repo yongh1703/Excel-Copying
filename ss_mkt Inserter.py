@@ -6,7 +6,7 @@ import sys
 from tkinter import filedialog
 
 # File path for the target workbook
-target_file = r'R:\Natural Gas\Global Gas Fundamentals\Demand vs Supply Logsheet (test).xlsm'
+target_file = 'File Path'
 
 # Select a source file using a file dialog
 def select_source_file(title="Select the Source Excel File"):
